@@ -24,7 +24,7 @@ Regisztáld és hozd létre a botod a szerverre ezen a linken: https://discord.c
 5. Futtasd a programot: `npm start`
 6. Használd a Bot-ot a `.env`-ben megadott szerveren.
 
-## Kérte adatok beszerzése
+## Kért adatok beszerzése
 ### `.env` fájlban a 
 - `TOKEN` értékét az oldalon https://discord.com/developers/applications 
   bejelentkezés után a kiválasztott vagy létrehozott Aplikációt megnyitva a `Bot` nevű oldalsó menüpontban találod meg.
