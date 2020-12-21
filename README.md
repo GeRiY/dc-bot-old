@@ -1,9 +1,9 @@
 ## Requirements
 
-"discord.js": "^11.5.1",
-"dotenv": "^8.2.0",
-"request": "^2.88.2",
-"sync-request": "^6.1.0"
+1."discord.js": "^11.5.1",
+2."dotenv": "^8.2.0",
+3."request": "^2.88.2",
+4."sync-request": "^6.1.0"
 
 ## Installation Steps (if applicable)
 
